@@ -7,6 +7,7 @@
 		"url": "https://github.com/elliotaplant/eval-js"
 	},
 	"icon": "images/icon.png",
+  "publisher": "ElliotPlant",
 	"engines": {
 		"vscode": "^1.71.0"
 	},
